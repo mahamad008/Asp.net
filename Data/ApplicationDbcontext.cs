@@ -10,7 +10,7 @@ namespace traingbackendc_.Data
         public ApplicationDbcontext(DbConnection<ApplicationDbcontext> options):base(options)
         {
 
-        }
+        }lldk
         public Dbset<User> Users { get; set; }
     }
 }
