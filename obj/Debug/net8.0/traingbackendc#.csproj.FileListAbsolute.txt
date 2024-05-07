@@ -36,3 +36,4 @@ C:\Users\Developer Mohamed\Desktop\traingbackendc#\obj\Debug\net8.0\refint\train
 C:\Users\Developer Mohamed\Desktop\traingbackendc#\obj\Debug\net8.0\traingbackendc#.pdb
 C:\Users\Developer Mohamed\Desktop\traingbackendc#\obj\Debug\net8.0\traingbackendc#.genruntimeconfig.cache
 C:\Users\Developer Mohamed\Desktop\traingbackendc#\obj\Debug\net8.0\ref\traingbackendc#.dll
+C:\Users\Developer Mohamed\Desktop\traingbackendc#\obj\Debug\net8.0\traingbackendc#.sourcelink.json
