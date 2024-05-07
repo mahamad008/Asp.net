@@ -1,0 +1,6 @@
+@traingbackendc__HostAddress = http://localhost:5135
+
+GET {{traingbackendc__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
