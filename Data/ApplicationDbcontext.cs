@@ -11,6 +11,6 @@ namespace traingbackendc_.Data
         {
 
         }
-        public Dbset<User>
+        public Dbset<User> Users { get; set; }
     }
 }
