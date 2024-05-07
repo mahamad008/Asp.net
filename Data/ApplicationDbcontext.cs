@@ -9,8 +9,8 @@ namespace traingbackendc_.Data
     {
         public ApplicationDbcontext(DbConnection<ApplicationDbcontext> options):base(options)
         {
-l
+
         }
         public Dbset<User> Users { get; set; }
     }
-}
+}da
